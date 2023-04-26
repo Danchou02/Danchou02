@@ -18,6 +18,6 @@
   
 </picture>
 
-![Snake animation](https://github.com/DevBatista1/Danchou2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Danchou02/Danchou02/blob/output/github-contribution-grid-snake.svg)
 
 
